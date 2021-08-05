@@ -17,7 +17,7 @@ Thank you very much!
 Your task is to create a new dashboard with which you will be displaying and editing product information.
 
 First you have to setup the main dashboard with the main structure:
-- Header with [Innoloft Logo](https://img.innoloft.de/logo.svg)
+- Header with [Innoloft Logo](hhttps://res.cloudinary.com/codepally/image/upload/v1616584548/Ridora/png/Ridora_Logo_white-08_ifvjth.png)
 - Navigation
   - Main Page
   - Product
